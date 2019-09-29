@@ -1,0 +1,8 @@
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\b\ModelLib\Debug\netstandard2.0\ModelLib.deps.json
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\b\ModelLib\Debug\netstandard2.0\ModelLib.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\ModelLib\Debug\netstandard2.0\ModelLib.csprojAssemblyReference.cache
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\ModelLib\Debug\netstandard2.0\ModelLib.csproj.CoreCompileInputs.cache
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\ModelLib\Debug\netstandard2.0\ModelLib.AssemblyInfoInputs.cache
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\ModelLib\Debug\netstandard2.0\ModelLib.AssemblyInfo.cs
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\ModelLib\Debug\netstandard2.0\ModelLib.csproj.CopyComplete
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\ModelLib\Debug\netstandard2.0\ModelLib.dll

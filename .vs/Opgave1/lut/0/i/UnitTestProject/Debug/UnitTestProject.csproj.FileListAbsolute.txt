@@ -1,0 +1,8 @@
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\b\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\b\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\b\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\b\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\UnitTestProject\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\UnitTestProject\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\UnitTestProject\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\.vs\Opgave1\lut\0\i\UnitTestProject\Debug\UnitTestProject.dll

@@ -1,0 +1,8 @@
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\Opgave1\bin\Debug\netstandard2.0\ModelLib.deps.json
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\Opgave1\bin\Debug\netstandard2.0\ModelLib.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\Opgave1\bin\Debug\netstandard2.0\ModelLib.pdb
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\Opgave1\obj\Debug\netstandard2.0\ModelLib.csprojAssemblyReference.cache
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\Opgave1\obj\Debug\netstandard2.0\ModelLib.AssemblyInfoInputs.cache
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\Opgave1\obj\Debug\netstandard2.0\ModelLib.AssemblyInfo.cs
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\Opgave1\obj\Debug\netstandard2.0\ModelLib.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\Opgave1\obj\Debug\netstandard2.0\ModelLib.pdb

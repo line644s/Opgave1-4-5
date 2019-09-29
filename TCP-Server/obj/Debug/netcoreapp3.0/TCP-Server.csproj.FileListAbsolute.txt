@@ -1,0 +1,15 @@
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\bin\Debug\netcoreapp3.0\TCP-Server.exe
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\bin\Debug\netcoreapp3.0\ModelLib.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\bin\Debug\netcoreapp3.0\ModelLib.pdb
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\obj\Debug\netcoreapp3.0\TCP-Server.csprojAssemblyReference.cache
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\obj\Debug\netcoreapp3.0\TCP-Server.AssemblyInfoInputs.cache
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\obj\Debug\netcoreapp3.0\TCP-Server.AssemblyInfo.cs
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\obj\Debug\netcoreapp3.0\TCP-Server.csproj.CopyComplete
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\bin\Debug\netcoreapp3.0\TCP-Server.deps.json
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\bin\Debug\netcoreapp3.0\TCP-Server.runtimeconfig.json
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\bin\Debug\netcoreapp3.0\TCP-Server.runtimeconfig.dev.json
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\bin\Debug\netcoreapp3.0\TCP-Server.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\bin\Debug\netcoreapp3.0\TCP-Server.pdb
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\obj\Debug\netcoreapp3.0\TCP-Server.dll
+C:\Users\line\Documents\3 Semester\OblOpgave\Opgave1\TCP-Server\obj\Debug\netcoreapp3.0\TCP-Server.pdb
